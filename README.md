@@ -37,10 +37,20 @@ This Power BI dashboard provides actionable insights into air conditioner sales 
 - 💡 Market Insight: Seasonal variations influenced profit margins significantly
 - 🌎 Regional Growth: The western zone showed consistent growth across all years
 
-
 ## Outcome & Learnings
 - This dashboard serves as a powerful decision-support tool for stakeholders to:
 - Optimize sales strategies based on historical performance
 - Understand customer preferences across sub-categories
 - Identify underperforming regions or product lines
 - Present clean, interactive insights to clients or internal teams
+
+## Conclusion
+
+This Power BI dashboard delivers clear, data-driven insights to guide strategic decisions in the air conditioner market
+
+Let's connect and explore opportunities to leverage analytics for your business success!
+
+#PowerBI #DataAnalytics #ACMarket #BusinessIntelligence #DataVisualization
+
+
+![image](https://github.com/Sakshi-Raichand/Market-Analysis-for-AC-Sales/blob/main/Screenshot%202025-07-03%20160932.png)
