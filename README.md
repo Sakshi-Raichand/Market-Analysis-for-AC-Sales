@@ -8,10 +8,10 @@ This project explores five years of sales and profit trends in the air condition
 
 This Power BI dashboard provides actionable insights into air conditioner sales across the global Outshine market. Using a blend of advanced data modeling and interactive visuals, the dashboard helps identify:
 
-📈 Top 5 sub-categories driving revenue and profit
-💰 Year-wise trends in sales, profit, and quantity sold
-🌍 Regional market performance
-🔍 Key metrics through dynamic KPI cards
+- 📈 Top 5 sub-categories driving revenue and profit
+- 💰 Year-wise trends in sales, profit, and quantity sold
+- 🌍 Regional market performance
+- 🔍 Key metrics through dynamic KPI cards
 
 ## Tools & Techniques Used
 Power BI for data visualization and report development
