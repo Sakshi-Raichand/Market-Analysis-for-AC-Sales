@@ -2,7 +2,7 @@
 
 ❄️Welcome to the Market Analysis for AC Sales projec, a comprehensive business intelligence dashboard 
 
-This project explores five years of sales and profit trends in the air conditioner market, highlighting top-performing sub-categories, KPIs, and market dynamics❄
+This project explores five years of sales and profit trends in the air conditioner market, highlighting top-performing sub-categories, KPIs, and market dynamics
 
 ## Project Overview
 
