@@ -26,10 +26,10 @@ This Power BI dashboard provides actionable insights into air conditioner sales 
 - Professional Layout: Clean, corporate design suitable for business presentations
 
 ## Dashboard Pages
-1.Executive Summary: KPIs, overall performance, and highlights
-2.Year-Wise Analysis: Profit & sales evolution from Year 1 to Year 5
-3.Sub-Category Insights: Top 5 sub-categories by sales and profitability
-4.Region-Wise Breakdown: Performance across different market zones
+1. Executive Summary: KPIs, overall performance, and highlights
+2. Year-Wise Analysis: Profit & sales evolution from Year 1 to Year 5
+3. Sub-Category Insights: Top 5 sub-categories by sales and profitability
+4. Region-Wise Breakdown: Performance across different market zones
 
 ## Insights Uncovered
 - 📌 Sales Trends: Strong upward trend until Year 4 with a market dip in Year 5
