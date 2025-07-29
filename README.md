@@ -53,4 +53,4 @@ Let's connect and explore opportunities to leverage analytics for your business 
 #PowerBI #DataAnalytics #ACMarket #BusinessIntelligence #DataVisualization
 
 
-![image](https://github.com/Sakshi-Raichand/Market-Analysis-for-AC-Sales/blob/main/Screenshot%202025-07-03%20160932.png)
+![image](https://github.com/Sakshi-Raichand/Market-Analysis-for-AC-Sales/blob/main/AC%20Dahboard.png)
